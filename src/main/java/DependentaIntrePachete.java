@@ -1,5 +1,16 @@
+import java.util.TreeMap;
+
 /**
- * Created by Marga on 5/9/2016.
+ * Clasa DependentaIntrePachete.
  */
 public class DependentaIntrePachete {
+
+    public TreeMap getDependentaIntrePachete(){
+        //todo implementare
+        return null;
+    }
+
+    public void afisareDIP(){
+        System.out.println("Se afiseaza dependeta intre pachete:");
+    }
 }

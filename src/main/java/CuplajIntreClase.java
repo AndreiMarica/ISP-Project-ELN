@@ -1,5 +1,16 @@
+import java.util.TreeMap;
+
 /**
- * Created by Marga on 5/9/2016.
+ * Clasa CuplajIntreClase.
  */
 public class CuplajIntreClase {
+
+    public TreeMap getCuplajIntreClase(){
+        //todo implementare
+        return null;
+    }
+
+    public void afiseazaCIC(){
+        System.out.println("Se afiseaza cuplajul intre clase:");
+    }
 }
